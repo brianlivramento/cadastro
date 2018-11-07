@@ -1,0 +1,24 @@
+legend {
+	font-size: 20px
+}
+
+.excel-ico {
+	font-size: 200px;
+	color: silver;
+	padding: 50px
+}
+
+.btn-register {
+	background: green;
+	color: white
+}
+
+.card {
+	padding: 20px;
+    font-size: 20px
+}
+
+.success {
+	background: green;
+	color: white
+}
